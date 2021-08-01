@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "政民互动",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nav-tabbar": "/components/NavTabbar"
+  }
+}

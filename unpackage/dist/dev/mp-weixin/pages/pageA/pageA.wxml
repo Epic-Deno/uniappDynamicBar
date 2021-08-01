@@ -1,0 +1,1 @@
+<view>政民互动<button type="default" data-event-opts="{{[['tap',[['asyncCommitUserMode',[2]]]]]}}" bindtap="__e">两个tab</button><button type="default" data-event-opts="{{[['tap',[['asyncCommitUserMode',[1]]]]]}}" bindtap="__e">三个tab</button><nav-tabbar vue-id="52ad521a-1" currentlyKey="政民互动" bind:__l="__l"></nav-tabbar></view>

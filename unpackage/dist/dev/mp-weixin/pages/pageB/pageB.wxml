@@ -1,0 +1,1 @@
+<view>我的<nav-tabbar vue-id="5c13d018-1" currentlyKey="我的" bind:__l="__l"></nav-tabbar></view>

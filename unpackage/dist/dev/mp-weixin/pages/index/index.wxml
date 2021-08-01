@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view><nav-tabbar vue-id="8dd740cc-1" currentlyKey="食安大厅" bind:__l="__l"></nav-tabbar></view>
